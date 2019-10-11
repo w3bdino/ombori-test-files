@@ -1,0 +1,15 @@
+
+.useritem-container {
+  border-bottom: 1px solid #CCCCCC;
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  
+  .item-wrap {
+    img {
+      border-radius: 100%;
+      max-width: 80px;
+      display: block;
+      margin: auto;
+    }
+  }
+}
